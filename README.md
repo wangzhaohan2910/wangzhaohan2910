@@ -1,5 +1,5 @@
-# **$\LARGE\color{blue}\LaTeX\color{green}\TeX$**
-# **The information of me, wangzhaohan2910.**
+# The information of me, wangzhaohan2910.
+# **$\LaTeX\TeX$**
 - 👋 Hi, I’m @wangzhaohan2910
 - 👀 I’m interested in OI.
 - 🌱 I’m currently learning DP.
