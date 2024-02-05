@@ -1,10 +1,10 @@
 # The information of me, wangzhaohan2910.
-# **$\LaTeX\TeX$**
 - 👋 Hi, I’m @wangzhaohan2910
 - 👀 I’m interested in OI.
 - 🌱 I’m currently learning DP.
 - 💞️ I’m looking to collaborate on Online Judges.
-- 📫 How to reach me? I am in China, I am going to go to HK.
+- 📫 How to reach me? My phone number is +86 15626067976.
+- 📧 And, my email address is wangcf3000@sina.com
 - 😄 Pronouns: Him or He.
 - ⚡ Fun fact: I AK IOI!
 <!---
