@@ -7,10 +7,10 @@
 - 📧 And, my email address is wangcf3000@sina.com
 - 😄 Pronouns: Him or He.
 - ⚡ Fun fact: I AK IOI!
+- ![](https://img.shields.io/github/repo-size/wangzhaohan2910/wangzhaohan2910)
 - ![](https://img.shields.io/github/languages/code-size/wangzhaohan2910/wangzhaohan2910)
 - ![](https://img.shields.io/github/size/wangzhaohan2910/wangzhaohan2910/README.md)
 - ![](https://img.shields.io/github/directory-file-count/wangzhaohan2910/wangzhaohan2910)
-- ![](https://img.shields.io/github/repo-size/wangzhaohan2910/wangzhaohan2910)
 <!---
 wangzhaohan2910/wangzhaohan2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
