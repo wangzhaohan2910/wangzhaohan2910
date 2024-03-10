@@ -7,6 +7,7 @@
 - 📧 And, my email address is wangcf3000@sina.com
 - 😄 Pronouns: Him or He.
 - ⚡ Fun fact: I AK IOI!
+- ✌️ [My blog(haven't filled with anything yet...)](https://wangzhaohan2910.github.io/wangzhaohan2910/)
 - 🧑‍💻 [My tyoi account](http://oiclass.com/user/10070)
 - 🧑‍💻 [My luogu-dev account](https://www.luogu.com.cn/user/629944)
 - 🧑‍💻 [My gitee account](https://gitee.com/wangzhaohan2910)
