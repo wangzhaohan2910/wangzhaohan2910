@@ -1,5 +1,6 @@
-The information of me, wangzhaohan2910.
--
+<details>
+<summary>The information of me, wangzhaohan2910.</summary>
+
 - 👋 Hi, I’m @wangzhaohan2910
 - 👀 I’m interested in OI.
 - 🌱 I’m currently learning Graph Theory.
@@ -21,3 +22,4 @@ The information of me, wangzhaohan2910.
 wangzhaohan2910/wangzhaohan2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</details>
