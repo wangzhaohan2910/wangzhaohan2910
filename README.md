@@ -1,5 +1,3 @@
-<script src="//wangzhaohan2910.github.io"></script>
-
 <details>
 <summary><h3>The information of me, wangzhaohan2910.</h3></summary>
 
