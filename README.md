@@ -15,10 +15,6 @@
 - 💻 [My luogu-dev account (not commonly used)](//www.luogu.com.cn/user/1418972)
 - 💻 [My gitee account](//gitee.com/wangzhaohan2910)
 - 💻 [My sourceforge account](//sourceforge.net/u/wangzhaohan2910/profile)
-- ![](//img.shields.io/github/repo-size/wangzhaohan2910/wangzhaohan2910)
-- ![](//img.shields.io/github/languages/code-size/wangzhaohan2910/wangzhaohan2910)
-- ![](//img.shields.io/github/size/wangzhaohan2910/wangzhaohan2910/README.md)
-- ![](//img.shields.io/github/directory-file-count/wangzhaohan2910/wangzhaohan2910)
 - ![](https://badges.toozhao.com/badges/01J66YFE2G7TRVFS17Z8FFMQ7X/green.svg)
 <!---
 wangzhaohan2910/wangzhaohan2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
