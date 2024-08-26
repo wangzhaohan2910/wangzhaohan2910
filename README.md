@@ -1,5 +1,5 @@
 <details>
-<summary><h1>The information of me, wangzhaohan2910.</h1></summary>
+<summary><h2>The information of me, wangzhaohan2910.</h2></summary>
 
 - 👋 Hi, I’m @wangzhaohan2910
 - 👀 I’m interested in OI.
