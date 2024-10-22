@@ -8,7 +8,7 @@
 - ☎ How to reach me? My phone number is +86 15626067976.
 - 📧 And, my email address is wangcf3000@sina.com
 - 😄 Pronouns: He or Him ~in Minecraft~.
-- ⚡ Fun fact: I AK IOI!
+- ⚡ Fun fake: I AK IOI!
 - ⌨ [My blog of Github](//wangzhaohan2910.github.io)
 - 📖 [My blog of Word Press (Infinity Free)](http://wangzhaohan2910.free.nf)
 - 📷 [My gallery (Infinity Free)](http://wangzhaohan2910.000.pe)
