@@ -12,10 +12,10 @@
 - 😁 [My Blog](//wangzhaohan2910.github.io)
 - 💻 [My Luogu account](//www.luogu.com.cn/user/629944)
 - 💻 [My Pastebin account](//pastebin.com/u/len2910)
-- 💻 [My CSDN account](https://blog.csdn.net/m0_70698556)
+- 💻 [My CSDN account](//blog.csdn.net/m0_70698556)
 - 💻 [My Gitee account](//gitee.com/wangzhaohan2910)
 - 💻 [My Gitea account](//gitea.com/wangzhaohan2910)
-- 💻 [My SourceForge account](//sourceforge.net/u/wangzhaohan2910/profile)
+- 💻 [My SourceForge account](//sourceforge.net/u/wangzhaohan2910)
 <!---
 wangzhaohan2910/wangzhaohan2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
