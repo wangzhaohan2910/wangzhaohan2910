@@ -11,6 +11,8 @@
 - ⚡ Fun fake: I AK IOI!
 - 😁 [My Blog](//wangzhaohan2910.github.io)
 - 💻 [My Luogu account](//www.luogu.com.cn/user/629944)
+- 💻 [My LibreOJ account](//loj.ac/u/wangzhaohan2910)
+- 💻 [My HydroOJ account](//hydro.ac/user/48708)
 - 💻 [My Pastebin account](//pastebin.com/u/len2910)
 - 💻 [My CSDN account](//blog.csdn.net/m0_70698556)
 - 💻 [My Gitee account](//gitee.com/wangzhaohan2910)
