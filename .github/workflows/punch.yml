@@ -1,6 +1,7 @@
 name: Luogu Auto Punch
 on:
-  push:
+  schedule:
+    - cron: '0 20 * * *'
 jobs:
   punch:
     runs-on: ubuntu-latest
