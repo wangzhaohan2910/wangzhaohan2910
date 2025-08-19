@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Punch
-        run: curl https://www.luogu.com.cn/index/ajax_punch --cookie "__client_id=1ff8b39112bd7681c5d5d4068d7c722b28567ab9;_uid=1660613"
+        run: curl https://www.luogu.com.cn/index/ajax_punch --cookie "__client_id=aa3197e615c6bdcb10f9d5026f92246497f985f9;_uid=629944"
