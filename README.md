@@ -1,17 +1,8 @@
-<details>
-<summary>The information of me, wangzhaohan2910.</summary>
+<a href="//wangzhaohan2910.github.io">
 
-- 👋 Hi, I’m @wangzhaohan2910
-- 👀 I’m interested in OI.
-- 🌱 I’m currently learning Graph Theory.
-- 💞️ I’m looking to collaborate on Online Judges.
-- ☎ How to reach me? My phone number is +86 15626067976.
-- 📧 And, my email address is wangcf3000@sina.com or wangzhaohan2910@outlook/hotmail.com.
-- 😄 Pronouns: He or Him ~in Minecraft~.
-- ⚡ Fun fake: I AK IOI!
-- 😁 [My Blog](//wangzhaohan2910.github.io)
-<!---
-wangzhaohan2910/wangzhaohan2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</details>
+![intro](https://cards.jerryz.com.cn/api?github=wangzhaohan2910&gitee=wangzhaohan2910&luogu=wangzhaohan2910&codeforces=wangzhaohan2910&csdn=wangzhaohan2910&img=1&date=2012-02-26&str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5&quote=%E6%B1%82%E5%85%B3%E6%B3%A8+%28%5Ev%5E%29&phone=19065355160&qq=350888531&email=wangcf3000%40sina.com&microsoft=wangcf3000%40sina.com&site=wangzhaohan2910.github.io)
+
+![LG](https://api.jerryz.com.cn/about?id=629944&dark_mode=true)
+
+![jy123](https://s2.loli.net/2025/03/04/dUP5eCch8t4zDZF.webp)
+</a>
